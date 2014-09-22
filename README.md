@@ -50,7 +50,7 @@ Readme.txt
 
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 [![image]](http://www.github.com/)
-[image]: http://github.com/github.png "github"
+[image]: https://avatars1.githubusercontent.com/u/8358898?v=2&s=460 "github"
 
 ### 文字被些字符包围
 > 文字被些字符包围
