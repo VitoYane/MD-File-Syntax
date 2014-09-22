@@ -46,7 +46,7 @@ Readme.txt
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />
 
 ###只是显示图片
-![github](http://github.com/unicorn.png "github")
+![github](https://avatars1.githubusercontent.com/u/8358898?v=2&s=460 "github")
 
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 [![image]](http://www.github.com/)
