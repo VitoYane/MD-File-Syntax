@@ -103,3 +103,33 @@
 
 ![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/10.png "行首加点")
 	******************************************************************************************************* 
+	
+	
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+
+![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/12.png "html")
+	
+***
+	
+*single asterisks*
+![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/13.png "html")
+
+***
+
+**double asterisks**
+![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/14.png "html")
+
+***
+
+`printf()`
+```
+test
+```
+![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/15.png "html")
+
+***
+
