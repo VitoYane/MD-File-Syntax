@@ -1,7 +1,7 @@
 
 
 <div class="wikistyle">
-<h1>Markdown 语法说明 (简体中文版) / (<a href="./basic.html">点击查看快速入门</a>)</h1>
+<h1>Markdown 语法说明 (简体中文版)</h1>
 
 <ul>
 <li><a href="#overview">概述</a>
