@@ -139,7 +139,6 @@ test
 
 
 ![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/16.png "复选框")
-***
 
 ***
 |行标题|行标题|行标题|行标题|
