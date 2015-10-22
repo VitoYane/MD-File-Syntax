@@ -140,3 +140,13 @@ test
 
 ![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/16.png "复选框")
 ***
+
+***
+|行标题|行标题|行标题|行标题|
+|---|:---|:---:|---:|
+|1|2|3|4|
+|5|6|7|8|
+
+
+![image](https://raw.githubusercontent.com/Zx7ffa4512/MD-File-Syntax/master/pic/17.png "表格")
+***
