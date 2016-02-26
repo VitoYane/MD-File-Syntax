@@ -128,11 +128,11 @@ test[空格][空格]
 
 ### b.引用
 
-[显示的文字][变量]
-[变量]: http://google.com/ "提示的文字" 
+[显示的文字][变量1]
+[变量1]: http://google.com/ "提示的文字" 
 ```
-[显示的文字][变量]
-[变量]: http://google.com/ "提示的文字" 
+[显示的文字][变量1]
+[变量1]: http://google.com/ "提示的文字" 
 ```
 
 
@@ -145,12 +145,12 @@ test[空格][空格]
 
 ### b.引用
 
-![显示的文字][变量]
-[变量]: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png "提示的文字" 
+![显示的文字][变量2]
+[变量2]: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png "提示的文字" 
 
 ```
-[显示的文字][变量]
-[变量]: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png "提示的文字" 
+[显示的文字][变量2]
+[变量2]: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png "提示的文字" 
 ```
 
 
@@ -160,8 +160,8 @@ test[空格][空格]
 [a]: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png "第一优先级"
 
 ```
-[![变量]](指向链接 "第二优先级")
-[变量]: 图片链接 "第一优先级"
+[![变量3]](指向链接 "第二优先级")
+[变量3]: 图片链接 "第一优先级"
 ```
 
 # 五、表格
